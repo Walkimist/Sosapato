@@ -1,5 +1,0 @@
-package Entrega3;
-
-public enum Categoria {
-	MASCULINO, FEMININO, INFANTIL_MASCULINO, INFANTIL_FEMININO, ESPORTE
-}
